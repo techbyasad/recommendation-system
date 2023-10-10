@@ -1,8 +1,8 @@
 # recommendation-system
-This repository contains a small python task for the course of machine learning.Movie Recommendation system: content filtering
+This repository contains a small Python task for the course of machine learning. Movie Recommendation System: collaborative filtering
 
 # Movie Recommendation system
-This repository contains python based small task movie recommendation system
+This repository contains Python based small task movie recommendation system
 
 ## Running Tic-Tac-Toe:
 
